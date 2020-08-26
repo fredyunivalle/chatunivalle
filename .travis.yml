@@ -9,5 +9,5 @@ script:
   - npm run test
 deploy:
   provider: heroku
-  api_key: $APIKEYHEROKU
+  api_key: $APIKEYHEROKUUU
   app: univallecursods2
